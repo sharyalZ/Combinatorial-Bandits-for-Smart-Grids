@@ -1,5 +1,5 @@
-## Decentralized-Combinatorial Multi-Armed Bandit-Thompson Sampling (D-CMAB-TS) 
-It is a repository containing the implementation of combinatorial multi-armed bandit algorithm with Thompson Sampling to solve combinatorial optimization problems involving single agent as well as multiple agents in a decentralized environment. Full algorithm can be found *[here](https://www.researchgate.net/publication/372447605_Decentralized_Smart_Charging_of_Large-Scale_EVs_using_Adaptive_Multi-Agent_Multi-Armed_Bandits)*. 
+## Simple CMABs
+It is a repository containing the implementation of combinatorial multi-armed bandit algorithm with Thompson Sampling to solve combinatorial optimization problems involving single agent as well as multiple agents in a decentralized environment. Implemented algorithm is inspired from *[here](https://www.researchgate.net/publication/372447605_Decentralized_Smart_Charging_of_Large-Scale_EVs_using_Adaptive_Multi-Agent_Multi-Armed_Bandits)*. 
 ___
 ## Architecture
 The repository includes following files:  
